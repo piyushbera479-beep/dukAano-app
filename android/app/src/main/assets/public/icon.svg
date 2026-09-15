@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <rect width="192" height="192" rx="42" fill="#0F766E"/>
+  <circle cx="96" cy="96" r="68" fill="#115E59"/>
+  <!-- Bag Body -->
+  <path d="M46 64 L146 64 L136 150 L56 150 Z" fill="#F59E0B" />
+  <path d="M58 76 L134 76 L126 140 L66 140 Z" fill="#FBBF24" />
+  <!-- Handle -->
+  <path d="M72 64 C72 44 120 44 120 64" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+  <!-- Letter D in Center -->
+  <path d="M82 88 L100 88 C112 88 120 96 120 108 C120 120 112 128 100 128 L82 128 Z M92 98 L92 118 L99 118 C105 118 109 114 109 108 C109 102 105 98 99 98 Z" fill="#0F766E"/>
+  <!-- Sparkle -->
+  <polygon points="138,48 141,56 149,59 141,62 138,70 135,62 127,59 135,56" fill="#FFFFFF" />
+</svg>

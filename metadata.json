@@ -1,0 +1,6 @@
+{
+  "name": "DUKAANO",
+  "description": "Local Indian marketplace connecting neighborhood grocery shops, pharmacies, dhabas, and SANIVOX essentials with DUKAANO Coins rewards.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

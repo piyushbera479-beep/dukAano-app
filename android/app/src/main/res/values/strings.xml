@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DUKAANO</string>
+    <string name="title_activity_main">DUKAANO</string>
+    <string name="package_name">com.dukaano.app</string>
+    <string name="custom_url_scheme">com.dukaano.app</string>
+</resources>
